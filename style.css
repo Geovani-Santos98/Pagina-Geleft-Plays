@@ -1,0 +1,26 @@
+.bannergeleft {
+    width: 100%;
+}
+
+.fundo {
+    background: #808080;
+}
+
+.menu-home {
+    display: inline;
+    position: relative;
+    padding-right: 20px;
+    font-size: 30px;
+}
+
+.decoration {
+    text-decoration: none;
+    color: black;
+}
+
+.texto-principal {
+    text-align: center;
+    font-size: 25px;
+    padding-top: 30px;
+    color: #ffffff;
+}
